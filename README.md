@@ -11,7 +11,7 @@ This project is a RESTful API built with Express.js for managing courses, catego
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/course-module-api.git
+   https://github.com/dhiree/course-module-api
 
 2. Navigate to the project directory:
    ```bash
